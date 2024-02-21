@@ -119,3 +119,4 @@ pub trait ZksNamespace {
         l1_batch_number: L1BatchNumber,
     ) -> RpcResult<Proof>;
 }
+
